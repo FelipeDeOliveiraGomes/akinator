@@ -1,0 +1,328 @@
+{
+  "characters": [
+    {
+      "id": 2,
+      "question": "your character is Luffy?",
+      "end": false,
+      "code": "Luffy"
+    },
+    {
+      "id": 4,
+      "question": "i won again!",
+      "end": true,
+      "code": ""
+    },
+    {
+      "id": 5,
+      "question": "Is your character a supernova?",
+      "end": false,
+      "code": "urouge"
+    },
+    {
+      "id": 3,
+      "question": "your character is Nami?",
+      "end": false,
+      "code": "Nami"
+    },
+    {
+      "id": 6,
+      "question": "I won again!",
+      "end": true,
+      "code": ""
+    },
+    {
+      "id": 7,
+      "question": "Is your character a supernova",
+      "end": false,
+      "code": "Jewelry Boney"
+    },
+    {
+      "id": 10,
+      "question": "Is your character urouge?",
+      "end": false,
+      "code": "urouge"
+    },
+    {
+      "id": 11,
+      "question": "Your character is a cook?",
+      "end": false,
+      "code": "sanji"
+    },
+    {
+      "id": 20,
+      "question": "I won again!",
+      "end": true,
+      "code": ""
+    },
+    {
+      "id": 21,
+      "question": "Is your character blonde?",
+      "end": false,
+      "code": "killer"
+    },
+    {
+      "id": 42,
+      "question": "Is your character killer?",
+      "end": false,
+      "code": "killer"
+    },
+    {
+      "id": 43,
+      "question": "Is your character inspired by the Italian mafia?",
+      "end": false,
+      "code": "capone gang bege"
+    },
+    {
+      "id": 84,
+      "question": "I won again!",
+      "end": true,
+      "code": ""
+    },
+    {
+      "id": 85,
+      "question": "Does your character know how to read magic cards?",
+      "end": false,
+      "code": "Basili Hawkings"
+    },
+    {
+      "id": 86,
+      "question": "Is your character capone gang bege?",
+      "end": false,
+      "code": "capone gang bege"
+    },
+    {
+      "id": 87,
+      "question": "is your character a doctor?",
+      "end": false,
+      "code": "Trafalgar Law"
+    },
+    {
+      "id": 172,
+      "question": "I won again!",
+      "end": true,
+      "code": ""
+    },
+    {
+      "id": 14,
+      "question": "Is your character Jewelry Boney?",
+      "end": false,
+      "code": "Jewelry Boney"
+    },
+    {
+      "id": 15,
+      "question": "Does your character have the power to control animals?",
+      "end": false,
+      "code": "Otama"
+    },
+    {
+      "id": 28,
+      "question": "I won again!",
+      "end": true,
+      "code": ""
+    },
+    {
+      "id": 174,
+      "question": "Is your character Trafalgar Law?",
+      "end": false,
+      "code": "Trafalgar Law"
+    },
+    {
+      "id": 175,
+      "question": "Your character eats de song fruit?",
+      "end": false,
+      "code": "Apoo"
+    },
+    {
+      "id": 348,
+      "question": "I won again!",
+      "end": true,
+      "code": ""
+    },
+    {
+      "id": 22,
+      "question": "Is your character Sanji?",
+      "end": "",
+      "code": "Sanji"
+    },
+    {
+      "id": 23,
+      "question": "Is your character a musician?",
+      "end": false,
+      "code": "Brook"
+    },
+    {
+      "id": 44,
+      "question": "I won again!",
+      "end": true,
+      "code": ""
+    },
+    {
+      "id": 46,
+      "question": "Is your character Brook?",
+      "end": false,
+      "code": "Brook"
+    },
+    {
+      "id": 47,
+      "question": "Is your character a robot?",
+      "end": false,
+      "code": "Franky"
+    },
+    {
+      "id": 92,
+      "question": "I won again!",
+      "end": true,
+      "code": ""
+    },
+    {
+      "id": 94,
+      "question": "Is your character Franky?",
+      "end": "",
+      "code": "Franky"
+    },
+    {
+      "id": 95,
+      "question": "Does your character know how to read magic cards?",
+      "end": false,
+      "code": "Basili Hawkings"
+    },
+    {
+      "id": 188,
+      "question": "I won again!",
+      "end": true,
+      "code": ""
+    },
+    {
+      "id": 190,
+      "question": "Is your character Basili Hawkings?",
+      "end": "",
+      "code": "Basili Hawkings"
+    },
+    {
+      "id": 191,
+      "question": "is your character a yonkou?",
+      "end": false,
+      "code": "kaido"
+    },
+    {
+      "id": 380,
+      "question": "I won again!",
+      "end": true,
+      "code": ""
+    },
+    {
+      "id": 382,
+      "question": "is your character Kaido?",
+      "end": false,
+      "code": "kaido"
+    },
+    {
+      "id": 764,
+      "question": "I won again!",
+      "end": true,
+      "code": ""
+    },
+    {
+      "id": 383,
+      "question": "your character is an admiral?",
+      "end": false,
+      "code": "Akainu"
+    },
+    {
+      "id": 30,
+      "question": "Is your character Otama?",
+      "end": false,
+      "code": "Otama"
+    },
+    {
+      "id": 60,
+      "question": "I won again!",
+      "end": true,
+      "code": "Otama"
+    },
+    {
+      "id": 766,
+      "question": "Is your character Akainu?",
+      "end": false,
+      "code": "Akainu"
+    },
+    {
+      "id": 1532,
+      "question": "I won again!",
+      "end": true,
+      "code": "Akainu"
+    },
+    {
+      "id": 1533,
+      "question": "did your character eat the fruit of light?",
+      "end": false,
+      "code": "Kizaru"
+    },
+    {
+      "id": 3066,
+      "question": "Is your character Kizaru?",
+      "end": false,
+      "code": "Kizaru"
+    },
+    {
+      "id": 3067,
+      "question": "Is your character a Blind?",
+      "end": false,
+      "code": "Kizaru"
+    },
+    {
+      "id": 6132,
+      "question": "I won again!",
+      "end": true,
+      "code": "Kizaru"
+    },
+    {
+      "id": 6134,
+      "question": "Is your character Fujitora?",
+      "end": false,
+      "code": "fujitora"
+    },
+    {
+      "id": 12268,
+      "question": "I won again!",
+      "end": true,
+      "code": "fujitora"
+    },
+    {
+      "id": 765,
+      "question": "Does you character have red hair?",
+      "end": false,
+      "code": "shanks"
+    },
+    {
+      "id": 1530,
+      "question": "Is your character shanks?",
+      "end": false,
+      "code": "shanks"
+    },
+    {
+      "id": 3060,
+      "question": "I won again!",
+      "end": true,
+      "code": "shanks"
+    },
+    {
+      "id": 1531,
+      "question": "did your character eat the earthquake fruit?",
+      "end": false,
+      "code": "WhiteBeard"
+    },
+    {
+      "id": 6124,
+      "question": "I won again!",
+      "end": true,
+      "code": "WhiteBeard"
+    },
+    {
+      "id": 3062,
+      "question": "Is your character WhiteBeard?",
+      "end": false,
+      "code": "WhiteBeard"
+    }
+  ]
+}

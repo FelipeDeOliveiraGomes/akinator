@@ -1,70 +1,17 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+*OnePieceNator -
+***An local network akinator version, with json-server API REST and React.JS
 
-## Available Scripts
+App inspired by the famous game akinator. The algorithm can learn new characters as it is used, with the potential to store an unlimited number of questions and characters due to its binary tree structure.
 
-In the project directory, you can run:
+Uses local Json-server Rest Api as database. If you want to test and improve the algorithm for educational purposes, just clone the repository, install the dependencies and Json-server if you don't have it yet.
 
-### `npm start`
+note: the name 'OnePieceNator' is just a parody and despite the name, it is possible to play with all kinds of characters whether or not they are from one piece. By default only some OnePiece characters are registered in the database. If you want to add new characters, just answer the game's questions normally, in case your character is not yet registered, after the questions are exhausted, the new characters registration screen will automatically open.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+***How its work?
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The app asks the user questions in order to guess a random character the user was thinking about. and according to the answers, dynamically changes the questions in a binary tree structure until reaching a final answer. If the algorithm does not correctly answer the character the user was thinking of, it opens an interface where the user can add the character he was thinking of. After being added, in the next round, the new character is already available to be played. That way, the more you play, the greater the level of known characters and the greater the possibility of satisfactorily hitting the character the player was thinking about.
 
-### `npm test`
+if you still don't know the original game that inspired this app, visit: https://en.akinator.mobi/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+app made solely for educational purposes and study of technologies such as Javascript, CSS, HTML, REACT and REST API

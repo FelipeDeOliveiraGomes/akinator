@@ -1,0 +1,33 @@
+.label {
+  display: block;
+  max-width: 400px;
+}
+
+input {
+  width: 300px;
+  display: block;
+  margin-top: 5px;
+  border: solid 1px black;
+  color: white;
+  background-color: rgba(112, 110, 110, 0.753);
+  outline: none;
+  border-radius: 3px;
+  text-align: left;
+
+}
+
+::-webkit-input-placeholder {
+  color: white;
+}
+
+.sendButton {
+  width: 150px ;
+  text-align: center;
+  background-color: transparent;
+}
+
+.sendButton:hover {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
